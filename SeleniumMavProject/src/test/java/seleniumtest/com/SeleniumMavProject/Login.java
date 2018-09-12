@@ -1,7 +1,7 @@
 
 
 /**
- * @author Julie.Thute
+ * @author JulieT
  * Date: 8/10/2018
  */
 package seleniumtest.com.SeleniumMavProject;
