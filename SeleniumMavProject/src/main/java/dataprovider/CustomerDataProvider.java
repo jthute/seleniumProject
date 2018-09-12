@@ -2,7 +2,7 @@ package dataprovider;
 import org.testng.annotations.DataProvider;
 
 /**
- * @author Julie.Thute
+ * @author JulieT
  * Date: 8/14/2018
  */
 public class CustomerDataProvider {
